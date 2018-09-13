@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Analysis/Analysis.iml" filepath="$PROJECT_DIR$/Analysis/Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudWaf.iml" filepath="$PROJECT_DIR$/CloudWaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkStreamingDemo/SparkStreamingDemo.iml" filepath="$PROJECT_DIR$/SparkStreamingDemo/SparkStreamingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_producer/data_producer.iml" filepath="$PROJECT_DIR$/data_producer/data_producer.iml" />
+    </modules>
+  </component>
+</project>
